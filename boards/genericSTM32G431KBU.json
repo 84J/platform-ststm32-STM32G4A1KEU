@@ -35,6 +35,6 @@
       "mbed"
     ]
   },
-  "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g431kbu6.html",
+  "url": "https://github.com/stm32duino/Arduino_Core_STM32/tree/main/variants/",
   "vendor": "ST"
 }
